@@ -228,7 +228,9 @@ footer{
        background-color: #d8d8e4;
        padding: 0 5px;
     }
-    
+    nav ul #hide{
+        display: none;
+    }
     .banner-title{
         font-size: 28px;
     }
